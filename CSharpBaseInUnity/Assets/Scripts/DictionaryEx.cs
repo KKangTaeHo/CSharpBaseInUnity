@@ -27,6 +27,7 @@ public class DictionaryEx : MonoBehaviour
 
     void Start()
     {
+        // 변경
         // 1. 인스턴스 생성 안하고 호출시 'NullReferenceException' 호출
         // Debug.Log(userDic["kim"]);
 
